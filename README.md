@@ -34,3 +34,9 @@ Shift Baru : Shift D
     ```html
     <app-nama-component></app-nama-component>
     ```
+
+    ## Hasil Screenshot
+
+    Berikut adalah contoh hasil screenshot dari penggunaan component dalam aplikasi Ionic:
+
+    ![Contoh Screenshot](screenshot.png)
